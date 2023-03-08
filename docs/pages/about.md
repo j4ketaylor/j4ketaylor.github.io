@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+<br>
+I'm Jake, a 3rd year Biomedical Engineering student at [Imperial College London][Imperial-College-London]. 
 
-You can find more information in [Jekyll Paper][jekyll-paper]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues] or send email to [me](mailto:i@ghosind.com). Wish you enjoying your blog life!
+<br>
+This is my website, where I post about projects that I am working on.
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+
+
+[Imperial-College-London]: https://www.imperial.ac.uk

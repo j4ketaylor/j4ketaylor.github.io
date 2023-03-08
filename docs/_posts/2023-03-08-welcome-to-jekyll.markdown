@@ -7,7 +7,9 @@ categories: [Blog-style post]
 #tags: [Getting Start]
 ---
   
-This is my first post, of hopefully many!
+Welcome to my website! I intend this to be the first post of many.
+
+
 
 <!-- ```c
 #include <stdio.h>

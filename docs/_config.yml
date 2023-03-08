@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: j-taylor.co.uk
+title: [<span class="block-line"><span><span style="color:#ff0000;">j</span><span style="color:#ff6e00;">-</span><span style="color:#ffdd00;">t</span><span style="color:#b2ff00;">a</span><span style="color:#48ff00;">y</span><span style="color:#00ff26;">l</span><span style="color:#00ff95;">o</span><span style="color:#00fbff;">r</span><span style="color:#0091ff;">.</span><span style="color:#0022ff;">c</span><span style="color:#4d00ff;">o</span><span style="color:#b700ff;">.</span><span style="color:#ff00d9;">u</span><span style="color:#ff006a;">k</span></span></span>]
 email: j4ketaylor@gmail.com
 name: Jake Taylor
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my website.
+  
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
