@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: [<span class="block-line"><span><span style="color:#ff0000;">j</span><span style="color:#ff6e00;">-</span><span style="color:#ffdd00;">t</span><span style="color:#b2ff00;">a</span><span style="color:#48ff00;">y</span><span style="color:#00ff26;">l</span><span style="color:#00ff95;">o</span><span style="color:#00fbff;">r</span><span style="color:#0091ff;">.</span><span style="color:#0022ff;">c</span><span style="color:#4d00ff;">o</span><span style="color:#b700ff;">.</span><span style="color:#ff00d9;">u</span><span style="color:#ff006a;">k</span></span></span>]
+title: [<span style="color:#FF0000">c</span><span style="color:#FF6600">o</span><span style="color:#FFCC00">d</span><span style="color:#CCFF00">i</span><span style="color:#66FF00">n</span><span style="color:#00FF00">g</span><span style="color:#00FF66">n</span><span style="color:#00FFCC">o</span><span style="color:#00CCFF">m</span><span style="color:#0066FF">a</span><span style="color:#0000FF">d</span><span style="color:#6600FF">.</span><span style="color:#CC00FF">n</span><span style="color:#FF00CC">e</span><span style="color:#FF0066">t</span>]
 email: j4ketaylor@gmail.com
 name: Jake Taylor
 description: >- # this means to ignore newlines until "baseurl:"
