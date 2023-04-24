@@ -4,7 +4,7 @@
 entries:
   - title: Welcome!
     entries:
-      - title: Imperial College <a href='https://www.imperial.ac.uk</a>
+      - title: "Imperial College <a href='https://www.imperial.ac.uk'</a>"
 
   - title: all posts
     post_list:
