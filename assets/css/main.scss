@@ -2,3 +2,9 @@
 ---
 
 @import "no-style-please";
+@import "code-highlighter";
+
+code {
+  color: white;
+  background: black;
+}
