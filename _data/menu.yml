@@ -2,9 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Welcome!
-    entries:
-      - title: "Imperial College <a href='https://www.imperial.ac.uk'</a>"
+  - title: "Imperial College <a href='https://www.imperial.ac.uk'</a>"
 
   - title: all posts
     post_list:
@@ -31,7 +29,7 @@ entries:
           - title: example page
             url: about
           - title: example pages 2
-            url: 2020-07-06-strange-post
+            url: strange-post
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
