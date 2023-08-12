@@ -9,13 +9,13 @@ entries:
       - title: I'm Jake, welcome to my website!
       - title: About me
         url: about
-  - title: Latest posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-  - title: Germany
+  # - title: Latest posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
+  - title: Germany 🇩🇪
     post_list:
       category: germany
       show_more: true
