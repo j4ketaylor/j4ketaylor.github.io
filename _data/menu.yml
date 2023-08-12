@@ -15,12 +15,12 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-  - title: The German Station Expedition
+  - title: Germany
     post_list:
-      category: visitingstations
+      category: germany
       show_more: true
       show_more_text: See more posts...
-      show_more_url: visitingstations-archive.html
+      show_more_url: germany-archive.html
 
   # - title: rss
   #   url: feed.xml
