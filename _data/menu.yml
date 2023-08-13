@@ -19,8 +19,14 @@ entries:
     post_list:
       category: germany
       show_more: true
+      limit: 5
       show_more_text: See more posts...
       show_more_url: germany-archive.html
+  - title: Transport maps
+    post_list:
+      category: transportmaps
+      show_more: true
+
 
   # - title: rss
   #   url: feed.xml
