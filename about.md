@@ -3,7 +3,9 @@ layout: post
 youtubeId: 6CT_kCEIWNE
 ---
 
-## About me!
+## About me
+
+<!--
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
@@ -48,3 +50,7 @@ employee1.scheduleLeave(21)
 [^1]: Okay here I should put something about "ipsum".
 [^2]: same goes for this.
 [^3]: I studied latin in high school but im not able to translate *anything*! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever.
+
+-->
+
+Nothing to see here :-)
