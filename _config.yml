@@ -1,10 +1,10 @@
 title: codingnomad.net # name of the site
-author: Jake Taylor # name of site's author
+author: N/A # name of site's author
 email:  # email of site's author
 url: https:/j4ketaylor.github.io # root address of the site
 baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A content focused website
+  Click and find out...
 
 permalink: /:slug.html
 

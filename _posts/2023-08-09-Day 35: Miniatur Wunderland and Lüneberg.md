@@ -16,7 +16,7 @@ category: germany
 
 <center> <span style="color:#0072bc "> <b> ↓ 7 ↓ </b> </span> </center>
 
-<center> Kröpcke Hbf </center>
+<center> Kröpcke </center>
 
 <center> <span style="color:#faaf18 "> <b> ↓ 6 ↓ </b> </span> </center>
 
