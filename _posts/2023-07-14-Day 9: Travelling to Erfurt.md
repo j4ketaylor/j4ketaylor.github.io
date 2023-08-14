@@ -34,7 +34,7 @@ category: germany
 
 <center> Regensburg Hbf </center>
 
-<center> <span style="color:#90bf26 "> <b> ↓ RE50 ↓ </b> </span> </center>
+<center> <span style="color:#804080 "> <b> ↓ RE50 ↓ </b> </span> </center>
 
 <center> Nürnberg Hbf </center>
 
