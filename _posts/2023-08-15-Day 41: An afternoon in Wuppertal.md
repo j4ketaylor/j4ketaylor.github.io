@@ -29,7 +29,7 @@ category: germany
 
 ## [Distance so far](#distance-so-far)
 
-4,037km
+3,940km
 
 ## [Photos](#photos)
 
