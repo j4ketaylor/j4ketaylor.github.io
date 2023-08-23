@@ -22,6 +22,8 @@ category: transportmaps
 <span> <br> </span>
 [Chemnitz](/citymaps/Chemnitz.pdf)
 <span> <br> </span>
+[Dortmund](/citymaps/Dortmund.pdf)
+<span> <br> </span>
 [Dresden](/citymaps/Dresden.pdf)
 <span> <br> </span>
 [Düsseldorf](/citymaps/Düsseldorf.pdf)
@@ -41,6 +43,8 @@ category: transportmaps
 [Köln](/citymaps/Köln.pdf)
 <span> <br> </span>
 [Leipzig](/citymaps/Leipzig.pdf)
+<span> <br> </span>
+[Ludwigshafen/Mannheim](/citymaps/Ludwigshafen+Mannheim.pdf)
 <span> <br> </span>
 [Nürnberg](/citymaps/Nürnberg.pdf)
 <span> <br> </span>
