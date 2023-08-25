@@ -44,10 +44,6 @@ category: germany
 
 ![theme logo](pictures/482-min.JPG){:.ioda}
 
-![theme logo](pictures/483-min.JPG){:.ioda}
-
-
-
 
 
 

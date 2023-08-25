@@ -38,6 +38,8 @@ category: transportmaps
 <span> <br> </span>
 [Hannover](/citymaps/Hannover.pdf)
 <span> <br> </span>
+[Heidelberg](/citymaps/Heidelberg.pdf)
+<span> <br> </span>
 [Kassel](/citymaps/Kassel.pdf)
 <span> <br> </span>
 [Köln](/citymaps/Köln.pdf)
