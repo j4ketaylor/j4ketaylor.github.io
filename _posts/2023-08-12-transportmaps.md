@@ -16,6 +16,8 @@ category: transportmaps
 
 ## [City Maps](#citymaps)
 
+[Basel](/citymaps/Basel.pdf)
+<span> <br> </span>
 [Bonn](/citymaps/Bonn.pdf)
 <span> <br> </span>
 [Braunschweig](/citymaps/Braunschweig.pdf)
