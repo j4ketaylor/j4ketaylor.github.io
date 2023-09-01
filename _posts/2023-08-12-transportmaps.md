@@ -16,6 +16,8 @@ category: transportmaps
 
 ## [City Maps](#citymaps)
 
+[Augsburg](/citymaps/Augsburg.pdf)
+<span> <br> </span>
 [Basel](/citymaps/Basel.pdf)
 <span> <br> </span>
 [Bonn](/citymaps/Bonn.pdf)
@@ -43,6 +45,8 @@ category: transportmaps
 [Hannover](/citymaps/Hannover.pdf)
 <span> <br> </span>
 [Heidelberg](/citymaps/Heidelberg.pdf)
+<span> <br> </span>
+[Karlsruhe](/citymaps/Karlsruhe.pdf)
 <span> <br> </span>
 [Kassel](/citymaps/Kassel.pdf)
 <span> <br> </span>
