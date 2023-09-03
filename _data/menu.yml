@@ -4,11 +4,12 @@
 # <img src="logo.png" alt="alternatetext">
 
 entries:
-  - title: Welcome
+  - title: Welcome!
     entries:
-      - title: I'm Jake, welcome to my website!
       - title: About me
         url: about
+      - title: About my travel logs
+        url: travellogs
   # - title: Latest posts
   #   post_list:
   #     limit: 5

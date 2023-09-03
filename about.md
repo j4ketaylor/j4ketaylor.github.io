@@ -5,52 +5,7 @@ youtubeId: 6CT_kCEIWNE
 
 ## About me
 
-<!--
+Hello, I'm Jake, a Biomedical Engineering graduate from Imperial College London with a keen interest in the fusion between transport and IT.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+My website is currently a log of my three month travels around Germany, but I aim to fill it with transport related programming projects that I am working on throughout the next few months.
 
----
-{: data-content="discussions"}
-
-This article has been discussed here:
-- [lobste.rs](#)
-- [/r/webdev](#)
-
-Feel free to reach out at my email to leave feedback and talk about the article.
-
-```py
-# Employee details and annual leave
-class Employee():
-
-  def __init__(self, name, surname, empID, leave):
-    self.name = name 
-    self.surname = surname 
-    self._empID = empID 
-    self._leave = leave 
-
-  def scheduleLeave(self, days):
-    if days <= self._leave:
-      self._leave -= days
-      print("You have scheduled annual leave")
-    else:
-      print("You have taken too much leave")
-  
-
-# Create an instance of the Employee class
-employee1 = Employee("Nkosi", "T", 1234, 20)
-# Print the employee details
-print(f"I am {employee1.name} {employee1.surname}, my employee ID is {employee1._empID} and I have {employee1._leave} days of annual leave left")
-# Book annual leave
-employee1.scheduleLeave(21)
-```
-
----
-{: data-content="footnotes"}
-
-[^1]: Okay here I should put something about "ipsum".
-[^2]: same goes for this.
-[^3]: I studied latin in high school but im not able to translate *anything*! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever.
-
--->
-
-Nothing to see here :-)
