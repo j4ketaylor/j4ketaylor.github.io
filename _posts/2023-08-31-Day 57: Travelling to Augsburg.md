@@ -42,9 +42,6 @@ category: germany
 
 <center> Schwaben Center </center>
 
-
-
-
 ## [Distance so far](#distance-so-far)
 
 5,766km
