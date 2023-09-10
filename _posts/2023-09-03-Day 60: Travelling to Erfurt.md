@@ -35,7 +35,6 @@ category: germany
 
 <center> Lange Brücke </center>
 
-
 ## [Distance so far](#distance-so-far)
 
 6,268km
