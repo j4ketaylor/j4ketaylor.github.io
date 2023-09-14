@@ -42,6 +42,8 @@ category: transportmaps
 <span> <br> </span>
 [Freiburg](/citymaps/Freiburg.pdf)
 <span> <br> </span>
+[Halle](/citymaps/Halle.pdf)
+<span> <br> </span>
 [Hannover](/citymaps/Hannover.pdf)
 <span> <br> </span>
 [Heidelberg](/citymaps/Heidelberg.pdf)
