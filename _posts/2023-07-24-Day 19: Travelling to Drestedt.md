@@ -34,9 +34,6 @@ category: germany
 
 <center> Trelder Straße Drestedt </center>
 
-
-
-
 ## [Distance so far](#distance-so-far)
 
 2,353km
