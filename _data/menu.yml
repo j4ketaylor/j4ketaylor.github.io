@@ -31,6 +31,12 @@ entries:
     post_list:
       category: tflProjects
       show_more: true
+  - title: Exploring London
+    post_list:
+      category: exploringLondon
+      show_more: true
+  
+
     
 
 
