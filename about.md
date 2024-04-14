@@ -7,5 +7,5 @@ youtubeId: 6CT_kCEIWNE
 
 Hello, I'm Jake, a Biomedical Engineering graduate from Imperial College London with a keen interest in the fusion between transport and IT.
 
-My website is currently a log of my three month travels around Germany, but I aim to fill it with transport related programming projects that I am working on throughout the next few months.
+My website is currently fairly empty, and serves as a dumping ground for transport related ideas, plus some journeys that I have completed. I am always adding new things so do check back for new additions!
 
