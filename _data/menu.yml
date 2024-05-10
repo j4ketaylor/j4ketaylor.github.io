@@ -16,7 +16,7 @@ entries:
   #     show_more: true
   #     show_more_text: See archive...
   #     show_more_url: archive.html
-  - title: Germany 🇩🇪
+  - title: Germany
     post_list:
       category: germany
       show_more: true

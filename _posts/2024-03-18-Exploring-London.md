@@ -3,7 +3,13 @@ layout: post
 category: exploringLondon
 ---
 
-This is the first post in a series of posts, where I will attempt to visit every electoral ward in London. I'll be using an interactive flourish map to display where I have been.
+Over the coming months, I will attempt to visit every electoral ward in London. 
+
+Electoral wards are small areas that vote for local councillors, and I will be using the 2018 boundaries, which can be found [here](https://www.arcgis.com/home/webmap/viewer.html?panel=gallery&layers=fbb927116d8f40a1a545025d536c3d72).
+
+These boundaries change every year, but this doesn't affect the general idea of the challenge.
+
+I'll be using an interactive flourish map to display where I have been.
 
 ## Table of contents
 

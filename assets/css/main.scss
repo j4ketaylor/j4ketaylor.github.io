@@ -4,6 +4,10 @@
 @import "no-style-please";
 @import "code-highlighter";
 
+.inner {
+  max-width: 75%;
+}
+
 code {
   color: white;
   background: black;
@@ -26,5 +30,7 @@ code {
 }
 
 a, a:visited, a:hover, a:active {
-  color: #ED1C24;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
 }
